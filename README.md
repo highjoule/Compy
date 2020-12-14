@@ -10,6 +10,8 @@ In order to make this video possible, you will have to download the subtitle fil
 
 You will also need moviepy and ImageMagick and make a little trick with the latter.
 
+## Before coding
+
 1. Moviepy Installation with pip
 
 `pip install moviepy`
