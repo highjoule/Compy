@@ -18,5 +18,12 @@ You will also need moviepy and ImageMagick and make a little trick with the latt
 
 2. ImageMagick
 
-Download the ImageMagick to your model and 
+Download the ImageMagick from [here](https://imagemagick.org/script/download.php)
+
+3. Fix the IMAGEMAGICK_BINARY issue from in the file config_default.py. (Consult the file in the repository)
+
+For Windows users, find where ImageMagick is installed, the path of magick.exe should be add in the last row of config_default.py.
+For Linux users, making sure that convert.py is installed should be enough.
+
+4. Run the code in susmysrs.md in this repository.
 
